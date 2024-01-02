@@ -1,16 +1,16 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif?cid=ecf05e47nd4pchslmwz8j7umjsyn3fzuzzyxwp0o8p2qz5ni&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250"/>
 </div>
 
 ## Hi, I'm Lyrien 👋
 
-### About Me
+### 👩🏻‍💻 About Me
 
 - 🔭 I’m currently on my 3rd year as a computer engineering student.
 - 🌱 I’m currently learning Web development, Java, and algorithms.
 
 
-### Languages and Tools
+### 📡 Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
