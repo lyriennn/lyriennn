@@ -2,11 +2,11 @@
   <img src="https://media2.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif?cid=ecf05e47nd4pchslmwz8j7umjsyn3fzuzzyxwp0o8p2qz5ni&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250"/>
 </div>
 
-## Hi, I'm Lyrien 👋
+## Hi, I'm Charisma Vendivel 👋
 
 ### 👩🏻‍💻 About Me
 
-- 🔭 I’m currently on my 3rd year as a computer engineering student.
+- 🔭 I’m in my 3rd year as a computer engineering student.
 - 🌱 I’m currently learning Web development, Java, and algorithms.
 
 
